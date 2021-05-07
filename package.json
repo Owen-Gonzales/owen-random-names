@@ -1,0 +1,20 @@
+{
+  "name": "owen-random-messages",
+  "version": "1.0.0",
+  "description": "I think i know what write for this package. I feel good I guess. And more important... this package generates some random names. Enjoy it :)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Owen Gonzales <26owenkgo@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
